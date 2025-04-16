@@ -1,0 +1,2 @@
+# stringmethod
+string method
